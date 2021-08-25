@@ -11,4 +11,4 @@ Smart-Banking Analytics is a banking portal created for predicting different mod
 
 Prediction can be performed on one record or on a file containing multiple records. The predicted data is visible on the screen and can be downloaded as an excel file. Moreover, the graphs are displayed in a dashboard to showcase various KPIs. 
 
-[![Demo](fraudDetection.mp4)]
+[![Click here to view the demo file](fraudDetection.mp4)]
