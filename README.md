@@ -16,7 +16,7 @@ Prediction can be performed on one record or on a file containing multiple recor
 ### Snapshots of the project
 <table> 
   <tr>
-    <td width=33% height = 150>![GitHub Logo](page1.jpg)</td> 
+    <td width=33% height = 150>![GitHub Logo](Page1.jpg)</td> 
     <td width=33% height = 150>![GitHub Logo](page2.png) </td>
     <td width=33% height = 150>![GitHub Logo](page3.jpg)
 </td> 
