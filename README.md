@@ -16,15 +16,14 @@ Prediction can be performed on one record or on a file containing multiple recor
 ### Snapshots of the project
 <table> 
   <tr>
-    <td width=33% height = 150>![GitHub Logo](Page1.jpg)</td> 
-    <td width=33% height = 150>![GitHub Logo](page2.png) </td>
-    <td width=33% height = 150>![GitHub Logo](page3.jpg)
-</td> 
+    <td width=33% height = 150> <img src="Page1.jpg"> </td> 
+    <td width=33% height = 150> <img src="page2.png"> </td>
+    <td width=33% height = 150> <img src="page3.jpg"> </td> 
   </tr>
   <tr>
-   <td width=33% height = 150>![GitHub Logo](page4.png)</td> 
-   <td width=33% height = 150>![GitHub Logo](page5.png)</td>
-   <td width=33% height = 150>![GitHub Logo](page6.png)</td>
+   <td width=33% height = 150><img src="/page4.png"> </td> 
+   <td width=33% height = 150><img src="page5.png"> </td>
+   <td width=33% height = 150><img src="page6.png"> </td>
   </tr>
  </table>
 
